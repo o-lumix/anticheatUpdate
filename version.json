@@ -1,7 +1,8 @@
 {
-  "version": "3.99",
+  "version": "4.0",
   "changelog": [
-        "Remove alls bug",
+        "Add French locales",
+        "and more",
         "Check out the full changelog on our Discord"
   ]
 }
